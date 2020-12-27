@@ -31,7 +31,7 @@ public class CompareCurrencyServiceImpl implements CompareCurrencyService {
             } else if (todayValue.compareTo(prevValue) < 0) {
                 return getId("broke");
             } else {
-                return "курсы равны";
+                return getId("nothing");
             }
         }
         return "";
