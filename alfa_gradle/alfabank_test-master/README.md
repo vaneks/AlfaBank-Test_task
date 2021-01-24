@@ -1,7 +1,3 @@
-Запуск 
-
-Запуск `java -jar currency-0.0.1-SNAPSHOT.jar`
-
 
 HTTP endpoint 
 
